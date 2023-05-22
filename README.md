@@ -13,7 +13,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ItzBenoitXD.ItzBenoitXD&"  />
+  <img src="[https://visitor-badge.laobi.icu/badge?page_id=ItzBenoitXD.ItzBenoitXD&](https://hits.dwyl.com/ItzBenoitXD/ItzBenoitXD.svg?style=flat-square)"  />
 </div>
 
 ###
