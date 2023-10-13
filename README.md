@@ -62,7 +62,3 @@
 <img src="https://raw.githubusercontent.com/ItzBenoitXD/ItzBenoitXD/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<p align="left">also credits to this repo for making this readme: https://github.com/maurodesouza/profile-readme-generator</p>
-
-###
