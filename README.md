@@ -1,64 +1,38 @@
-<div align="center">
-  <a href="https://youtube.com/@lalala1" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  </a>
-  <a href="https://twitter.com/ItzBenoitXD" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
-  <a href="https://discord.com/users/555079892467974164" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
-</div>
+<h1 align="center">Hi 👋, I'm ItzBenoitXD</h1>
+<h3 align="center">A random guy from Europe passionate about tech and coding.</h3>
 
-###
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=itzbenoitxd&label=Profile%20views&color=0e75b6&style=flat" alt="itzbenoitxd" /> </p>
 
-<div align="center">
-  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2FItzBenoitXD%2FItzBenoitXD.json%3Fcolor%3Dblue"  />
-</div>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itzbenoitxd" alt="itzbenoitxd" /></a> </p>
 
-###
+- 🔭 I’m currently working on [a Minecraft server, Infuser](https://blissmc.stozu.net)
 
-<h1 align="center">hey there 👋</h1>
+- 🌱 I’m currently learning **on how to code HTML**
 
-###
+- 👯 I’m looking to collaborate on [the HolaClient docs](https://github.com/ItzBenoitXD/holaclient-docs)
 
-<h3 align="left">👩‍💻  About Me</h3>
+- 🤝 I’m looking for help with **a secret project, additional pterodactyl documentation (because Pterodox is outdated)**
 
-###
+- 👨‍💻 All of my projects are available at [https://amogus.stozu.net](https://amogus.stozu.net)
 
-<p align="left">I'm ItzBenoitXD (or amogus) from France (did you thought that I was about to give my actual location?)<br><br>- 🔭 I’m working as a manager in @stozu<br>- 📚 I'm currently learning... yeah i don't know yet<br>- ⚡ In my free time, I usually play with friends, make documentations or just play with my Pixel 3a</p>
+- 💬 Ask me about **uhh, i don't know**
 
-###
+- 📫 How to reach me **itzbenoitxd@protonmail.com**
 
-<h3 align="left">🛠 Things I use:</h3>
+- ⚡ Fun fact **I always think I know how to code but in reality, I don't know alot.**
 
-###
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.youtube.com/c/lalala1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lalala1" height="30" width="40" /></a>
+<a href="https://discord.gg/PXcjcZuhvg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="PXcjcZuhvg" height="30" width="40" /></a>
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="40" width="52" alt="putty logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" height="40" width="52" alt="ssh logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" width="52" alt="ubuntu logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" width="52" alt="android logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" width="52" alt="bash logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" height="40" width="52" alt="firefox logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/moodle/moodle-original.svg" height="40" width="52" alt="moodle logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" width="52" alt="nginx logo"  />
-</div>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
 
-###
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itzbenoitxd&show_icons=true&locale=en&layout=compact" alt="itzbenoitxd" /></p>
 
-<h3 align="left">🔥   My Stats (they are not epic) :</h3>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itzbenoitxd&show_icons=true&locale=en" alt="itzbenoitxd" /></p>
 
-###
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itzbenoitxd&" alt="itzbenoitxd" /></p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ItzBenoitXD&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=ItzBenoitXD&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/ItzBenoitXD/ItzBenoitXD/output/snake.svg" alt="Snake animation" />
-
-###
